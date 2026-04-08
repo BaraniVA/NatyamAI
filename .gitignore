@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment build
+dist/
+dist-ssr/
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Downloaded videos / Temp folders
+backend/tmp_test/
+backend/tmp_test2/
+backend/tmp_test3/
+tmp/
+*.mp4
+
+# Python environment variables
+.env
